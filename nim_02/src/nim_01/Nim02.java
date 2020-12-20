@@ -1,7 +1,7 @@
 
+import java.util.Scanner;
 
-
-public class Nim02(){
+public class Nim02{
 static void wait500() {
 		try{
 			Thread.sleep(1000);
@@ -144,4 +144,4 @@ public void play(){
 	}
   }
 
-}
+
